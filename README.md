@@ -11,7 +11,7 @@
 
 
 ## Using  The Provider
-The Netskope Terraform Provider Repo includes sample plans to get you started. You will need to complete several task before launching any of the samples or to use the provider in your own plans.
+The Netskope Terraform Provider Repo includes sample plans to get you started. You will need to complete several tasks before launching any of the samples or to use the provider in your own plans.
 
 ### Netskope Tenant Tasks
 
@@ -19,7 +19,7 @@ The Netskope Terraform Provider Repo includes sample plans to get you started. Y
     - This will be the URL used to manage your Netskope tenant 
     - For example: `https://example.goskope.com`
 
-1. Follow the [REST APIv2 Documentaion](https://docs.netskope.com/en/rest-api-v2-overview-312207.html) to create an API Token
+1. Follow the [REST APIv2 Documentation](https://docs.netskope.com/en/rest-api-v2-overview-312207.html) to create an API Token
     - Required "Read+Write" Endpoints For NPA:
         - `/api/v2/steering/private`
         - `/api/v2/infrastructure/publisher`
